@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-## Student programer
+## Student programmer
 - 🧊 Currently working on a voxel game engine
 - 🌱 At university studing electronic music
 - ⭐️ Interested in graphics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voxelbee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Find me at:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voxelbee&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
