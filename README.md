@@ -13,11 +13,6 @@
 [<img align="left" alt="____peyton__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="SLUMB3R | SoundCloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]
 
-<br />
-
----
-
-![Voxelbees's github stats](https://github-readme-stats.vercel.app/api?username=voxelbee&count_private=true&show_icons=true)
 
 [instagram]: https://instagram.com/____peyton__
 [linkedin]: https://www.linkedin.com/in/peyton-hammersley-ba62241a0/
