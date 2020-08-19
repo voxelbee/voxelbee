@@ -5,6 +5,7 @@
 - 🌱  At university studing electronic music
 - ⭐️  Interested in graphics APIs and game engines
 - 🎥  Creating Videos, Music and Photography
+- 🎮. Into creating new worlds and MMOs
 
 ### Find me at:
 
