@@ -2,7 +2,7 @@
 
 ## Student programmer!
 - 🧊  Currently working on a voxel game engine
-- 🌱  At university studing electronic music
+- 🌱  At university studying electronic music
 - ⭐️  Interested in graphics APIs and game engines
 - 🎥  Creating Videos, Music and Photography
 - 🎮. Into creating new worlds and MMOs
